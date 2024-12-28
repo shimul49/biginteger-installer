@@ -3,6 +3,7 @@
     "description": "A beautiful Laravel installer package",
     "type": "library",
     "license": "MIT",
+    "version": "1.0",
     "autoload": {
         "psr-4": {
             "BigInteger\\LaravelInstaller\\": "src/"
